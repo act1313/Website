@@ -1,0 +1,10 @@
+.rick {
+    display: block;
+    margin: auto;
+    width: 50%;
+  }
+
+.hello {
+    text-align: center;
+    border: 3px solid green;
+  }
